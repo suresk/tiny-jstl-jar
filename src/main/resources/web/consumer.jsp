@@ -5,6 +5,6 @@
 <title>Key</title>
 </head>
 <body>
-<p>Consumer Key: <c: out value="${key}" /></p>
+<p>Consumer Key: <c:out value="${key}" /></p>
 </body>
 </html>
